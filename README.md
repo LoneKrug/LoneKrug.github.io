@@ -1,2 +1,2 @@
 # siemdejong.github.io
-CV for me, Siem de Jong
+CV for me, Siem de Jong.
